@@ -1,0 +1,59 @@
+[
+  {
+    "description": "Test NFT - Romelu Lukaku",
+    "name": "Romelu Lukaku",
+    "image": "images/01.png",
+    "attributes": [
+      {
+        "trait_type" : "Player Type",
+        "value" : "Forward"
+      },
+      {
+        "trait_type" : "Club",
+        "value" : "Inter Milan"
+      },
+      {
+        "trait_type" : "Country",
+        "value" : "Belgium"
+      }
+    ]
+  },
+  {
+    "description": "Test NFT - Noa Lang",
+    "name": "Noa Lang",
+    "image": "images/02.png",
+    "attributes": [
+      {
+        "trait_type" : "Player Type",
+        "value" : "Forward"
+      },
+      {
+        "trait_type" : "Club",
+        "value" : "Club Brugge"
+      },
+      {
+        "trait_type" : "Country",
+        "value" : "Netherlands"
+      }
+    ]
+  },
+  {
+    "description": "Test NFT - Ryan Gravenberch",
+    "name": "Ryan Gravenberch",
+    "image": "images/03.png",
+    "attributes": [
+      {
+        "trait_type" : "Player Type",
+        "value" : "Midfielder"
+      },
+      {
+        "trait_type" : "Club",
+        "value" : "Ajax Amsterdam"
+      },
+      {
+        "trait_type" : "Country",
+        "value" : "Netherlands"
+      }
+    ]
+  }
+]

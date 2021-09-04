@@ -1,0 +1,28 @@
+{
+  "name": "pinny",
+  "version": "1.0.0",
+  "description": "NFT Metadata Pinner for IPFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pinny": "src/index.js"
+  },
+  "bin": {
+    "pinny": "src/index.js"
+  },
+  "author": "Archethect",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "chalk": "^4.1.0",
+    "cids": "^1.1.6",
+    "commander": "^7.1.0",
+    "concurrently": "^6.0.0",
+    "getconfig": "^4.5.0",
+    "inquirer": "^8.0.0",
+    "it-all": "^1.0.5",
+    "json-colorizer": "^2.2.2",
+    "multiaddr": "^8.1.2"
+  }
+}
